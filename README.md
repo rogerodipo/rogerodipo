@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rogerodipo
-- 👀 I’m interested in life
+- 👀 Living is cool.
 - 🌱 I’m currently learning how to make the most of it
 - 💞️ I’m looking to collaborate on this.
-- 📫 How to reach me : rogerodipo@gmail.com
+- 📫 How to reach me : roger@inselberg.co.ke
 
 <!---
 rogerodipo/rogerodipo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
