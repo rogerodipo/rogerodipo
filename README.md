@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rogerodipo
+- 👋 Hi, we're Vanguard BI
 - 👀 Life is good, life is great, life is unbelievable.
 - 🌱 I’m currently learning how to make the most of it
 - 💞️ I’m looking to collaborate on this.
